@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a computer science student at West Chester University of Pennsylvania.
 
 <!--
 **inagle33/inagle33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
