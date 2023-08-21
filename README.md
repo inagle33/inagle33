@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm a computer science student at West Chester University of Pennsylvania.
+I'm a computer science student at West Chester University of Pennsylvania. I'm extremely interested in software development and am currently looking for an internship!
+You can reach me at 614-286-4659 or isaacdnagle@gmail.com.
 
 <!--
 **inagle33/inagle33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
